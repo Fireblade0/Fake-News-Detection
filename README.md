@@ -1,5 +1,4 @@
 # Fake-News-Detection
-# Fake News Detection
 
 This project focuses on detecting fake news articles using machine learning techniques. The provided dataset includes "Fake" and "True" news articles, and the accompanying Jupyter Notebook (`Fake news detection22.ipynb`) demonstrates the steps taken to build and evaluate the model.
 
